@@ -7,7 +7,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 **Authors:** Aaryan Chaulagain, Anju Dhakal  
-**Affiliation:** Xavier International College, Rudramati Marga, Kathmandu, Nepal  
+**Affiliation:** Independent Researcher, Kathmandu, Nepal  
 **Contact:** aaryan1379@xavier.edu.np · anju1271@xavier.edu.np  
 **Version:** v1.0 | August 2025
 
