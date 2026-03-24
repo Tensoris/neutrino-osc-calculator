@@ -1,0 +1,55 @@
+{
+  "title": "A Lightning-Fast Three-Flavor Neutrino Oscillation Calculator in Constant-Density Matter with Built-In Uncertainty Propagation",
+  "description": "Python source code and LaTeX manuscript for a compact three-flavor neutrino oscillation calculator. Implements exact Hamiltonian diagonalization, O(alpha^2) perturbative approximation, a hybrid solver with MSW-resonance switching, Monte Carlo uncertainty propagation, and Jacobian linearization. Parameters follow NuFIT 6.0 (normal ordering). Validated against unitarity, MSW resonance reproduction, and performance benchmarks at 295 km baseline.",
+  "creators": [
+    {
+      "name": "Chaulagain, Aaryan",
+      "affiliation": "Xavier International College, Kathmandu, Nepal",
+      "orcid": ""
+    },
+    {
+      "name": "Dhakal, Anju",
+      "affiliation": "Xavier International College, Kathmandu, Nepal",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "neutrino oscillations",
+    "PMNS matrix",
+    "MSW effect",
+    "uncertainty propagation",
+    "Monte Carlo",
+    "constant-density matter",
+    "perturbative approximation",
+    "Jacobian propagation",
+    "NuFIT 6.0",
+    "T2K",
+    "Hyper-Kamiokande"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "software",
+  "publication_date": "2026-03-01",
+  "version": "v1.0",
+  "language": "eng",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://arxiv.org/abs/2410.05380",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://arxiv.org/abs/1505.01826",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    },
+    {
+      "scheme": "url",
+      "identifier": "https://arxiv.org/abs/hep-ph/0402175",
+      "relation": "cites",
+      "resource_type": "publication-article"
+    }
+  ]
+}
