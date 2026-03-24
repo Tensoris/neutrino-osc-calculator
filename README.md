@@ -9,7 +9,7 @@
 **Authors:** Aaryan Chaulagain, Anju Dhakal  
 **Affiliation:** Xavier International College, Rudramati Marga, Kathmandu, Nepal  
 **Contact:** aaryan1379@xavier.edu.np · anju1271@xavier.edu.np  
-**Version:** v1.0 | March 2026
+**Version:** v1.0 | August 2025
 
 ---
 
