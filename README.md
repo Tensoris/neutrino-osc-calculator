@@ -3,7 +3,6 @@
 **A Lightning-Fast Three-Flavor Neutrino Oscillation Calculator in Constant-Density Matter with Built-In Uncertainty Propagation**
 
 [![DOI FOR CODES](https://zenodo.org/badge/DOI/10.5281/zenodo.19208300.svg)](https://doi.org/10.5281/zenodo.19208300)
-[![DOI FOR PAPER](https://zenodo.org/badge/DOI/10.5281/zenodo.19208542.svg)](https://doi.org/10.5281/zenodo.19208542)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
@@ -59,17 +58,6 @@ print(f"Peak appearance probability: {P_mue.max():.4f}")
 
 ---
 
-## Reproducing Paper Figures
-
-```bash
-python main.py
-```
-
-This generates all five publication figures: `appearance_plot.png`, `disappearance_plot.png`,
-`comparison_plot.png`, `error_plot.png`, `performance_plot.png`.
-
----
-
 ## Repository Structure
 
 ```
@@ -120,14 +108,6 @@ neutrino-osc-calculator/
 If you use this code, please cite the accompanying paper and this software release:
 
 ```bibtex
-@article{chaulagain2026neutrino,
-  title   = {A Lightning-Fast Three-Flavor Neutrino Oscillation Calculator
-             in Constant-Density Matter with Built-In Uncertainty Propagation},
-  author  = {Chaulagain, Aaryan and Dhakal, Anju},
-  journal = {Zenodo},
-  year    = {2026},
-  doi     = {10.5281/zenodo.19208542}
-}
 
 @software{chaulagain2026code,
   author    = {Chaulagain, Aaryan and Dhakal, Anju},
