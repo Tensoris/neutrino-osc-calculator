@@ -2,7 +2,7 @@
 
 **A Lightning-Fast Three-Flavor Neutrino Oscillation Calculator in Constant-Density Matter with Built-In Uncertainty Propagation**
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19208300.svg)](https://doi.org/10.5281/zenodo.19208300)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
@@ -20,9 +20,9 @@ probabilities in constant-density matter, combining:
 
 - **Exact Hamiltonian diagonalization** (Algorithm 1) — unitarity preserved to < 10⁻¹⁰
 - **Compact O(α²) perturbative approximation** (Algorithm 2) — ~27× faster than exact
-- **Hybrid solver** (Algorithm 5) — automatically switches to exact near MSW resonance
-- **Monte Carlo uncertainty propagation** (Algorithm 3) — NuFIT 6.0 parameter covariance
-- **Jacobian linearization** (Algorithm 4) — instant confidence bands
+- **Hybrid solver** (Algorithm 3) — automatically switches to exact near MSW resonance
+- **Monte Carlo uncertainty propagation** (Algorithm 4) — NuFIT 6.0 parameter covariance
+- **Jacobian linearization** (Algorithm 5) — instant confidence bands
 
 All NuFIT 6.0 parameters and benchmarks match those reported in the accompanying paper.
 
@@ -123,9 +123,9 @@ If you use this code, please cite the accompanying paper and this software relea
   title   = {A Lightning-Fast Three-Flavor Neutrino Oscillation Calculator
              in Constant-Density Matter with Built-In Uncertainty Propagation},
   author  = {Chaulagain, Aaryan and Dhakal, Anju},
-  journal = {[venue]},
+  journal = {Zenodo},
   year    = {2026},
-  doi     = {10.5281/zenodo.XXXXXXX}
+  doi     = {10.5281/zenodo.19208300}
 }
 
 @software{chaulagain2026code,
@@ -133,8 +133,8 @@ If you use this code, please cite the accompanying paper and this software relea
   title     = {neutrino-osc-calculator v1.0},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://doi.org/10.5281/zenodo.XXXXXXX}
+  doi       = {10.5281/zenodo.19208300},
+  url       = {https://doi.org/10.5281/zenodo.19208300}
 }
 ```
 
