@@ -1,0 +1,17 @@
+=========================================================
+
+Requirements for: Three-Flavor Neutrino Oscillation Calculator
+
+=========================================================
+
+Core numerical engine for matrix operations and vectorization
+
+numpy>=1.24.0
+
+Scientific plotting library for generating publication-quality figures
+
+matplotlib>=3.7.0
+
+(Optional) Jupyter is recommended if users want to explore the code interactively
+
+jupyter>=1.0.0
