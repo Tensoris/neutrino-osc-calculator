@@ -99,7 +99,7 @@ neutrino-osc-calculator/
 │   └── constants.py              ← NuFIT 6.0 parameters, physical constants
 │
 ├── paper/
-│   ├── main.tex                  ← Full LaTeX manuscript (ICAIIT format)
+│   ├── main.tex                  ← Full LaTeX manuscript
 │   └── figures/                  ← Generated figure PNGs (gitignored if large)
 │       ├── appearance_plot.png
 │       ├── disappearance_plot.png
